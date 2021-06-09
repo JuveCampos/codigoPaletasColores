@@ -60,4 +60,8 @@ Me basé fuertemente en este código: https://gist.github.com/jeroen/bd1d0a30e71
 
 En esta aplicación se establece un método para manipular imagenes y leerlas desde un shiny. Igualmente, de mi entrada en el desafío del #30DayChartChallenge del Abril del 2021. 
 
+## Aplicación
+
+En esta aplicación se establece un método para manipular imagenes y leerlas desde un shiny. Igualmente, de mi entrada en el desafío del #30DayChartChallenge del Abril del 2021. 
+
 Versión en Shiny: [Enlace](https://lnppmicrositio.shinyapps.io/paletas_colores/)
